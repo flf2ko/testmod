@@ -1,1 +1,1 @@
-module github.com/flf2ko/testmod:v1.1
+module github.com/flf2ko/testmod:v2
